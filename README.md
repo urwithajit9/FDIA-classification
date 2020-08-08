@@ -16,3 +16,6 @@ The dataset is based on a publically available dataset at the below link.
 3. Merge all events of each class
 4. The resulting dataset will have all event with re-assigned class label 1 or 0 (FDI(1) and NoFDI (0)
 
+# Scripts
+ Note: Will be added after the publication of the manuscript.
+
